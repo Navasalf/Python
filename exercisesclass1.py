@@ -1,4 +1,4 @@
-# 1.- Desafio de Numeros
+# 1.- Desafio de Numeros -------------------------------
 
 # partidos_ganados = int(input()) * 3
 # partidos_empatados = int(input()) * 1
@@ -9,7 +9,7 @@
 
 
 
-# 2.- Desafio Slicing
+# 2.- Desafio Slicing ---------------------------------
 
 # cadena = "acitametaM ,5.8 ,otipeP ordeP"
 
@@ -27,7 +27,7 @@
 
 
 
-# .-3
+# .-3 ----------------------------------------------
 
 # nota_1 = float(input("ingrese la nota 1:  "))
 # nota_2 = float(input("ingrese la nota 2:  "))
